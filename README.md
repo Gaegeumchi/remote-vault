@@ -13,7 +13,7 @@ An MCP server that lets AI agents (Claude Code, Claude Desktop, etc.) run SSH co
 Requires Python ≥ 3.10 and [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone <this-repo-url> remote-vault
+git clone https://github.com/Gaegeumchi/remote-vault.git remote-vault
 cd remote-vault
 uv tool install --editable .
 ```
@@ -113,7 +113,7 @@ AI 에이전트(Claude Code 등)가 **접속 정보 없이 이름만으로** SSH
 Python 3.10 이상, [uv](https://docs.astral.sh/uv/) 필요.
 
 ```bash
-git clone <this-repo-url> remote-vault
+git clone https://github.com/Gaegeumchi/remote-vault.git remote-vault
 cd remote-vault
 uv tool install --editable .
 ```
